@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>top-level-items</key>
+	<array>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>0</string>
+					<key>EndingLineNumber</key>
+					<string>62</string>
+					<key>StartingColumnNumber</key>
+					<string>0</string>
+					<key>StartingLineNumber</key>
+					<string>61</string>
+					<key>Timestamp</key>
+					<string>737587728.620454</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>forfun/Modal Popup/CustomPopupView.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>                                //add action
+</string>
+				<key>leading</key>
+				<string>                  
+                            Button(action: {
+</string>
+				<key>trailing</key>
+				<string>                            }
+                            , label: {
+                                Text("متابعة")
+</string>
+			</dict>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>44</string>
+					<key>EndingLineNumber</key>
+					<string>73</string>
+					<key>StartingColumnNumber</key>
+					<string>31</string>
+					<key>StartingLineNumber</key>
+					<string>73</string>
+					<key>Timestamp</key>
+					<string>737587737.969041</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>forfun/Modal Popup/CustomPopupView.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string> //add action</string>
+				<key>leading</key>
+				<string>                            
+                            Button(action: {
+                               </string>
+				<key>trailing</key>
+				<string>
+                            }
+                            , label: {
+</string>
+			</dict>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>44</string>
+					<key>EndingLineNumber</key>
+					<string>85</string>
+					<key>StartingColumnNumber</key>
+					<string>30</string>
+					<key>StartingLineNumber</key>
+					<string>85</string>
+					<key>Timestamp</key>
+					<string>737587745.202445</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>forfun/Modal Popup/CustomPopupView.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>  //add action</string>
+				<key>leading</key>
+				<string>                            
+                            Button(action: {
+                              </string>
+				<key>trailing</key>
+				<string>
+                            }
+                            , label: {
+</string>
+			</dict>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>44</string>
+					<key>EndingLineNumber</key>
+					<string>96</string>
+					<key>StartingColumnNumber</key>
+					<string>27</string>
+					<key>StartingLineNumber</key>
+					<string>96</string>
+					<key>Timestamp</key>
+					<string>737587751.649</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>forfun/Modal Popup/CustomPopupView.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>     //add action</string>
+				<key>leading</key>
+				<string>                            
+                            Button(action: {
+                           </string>
+				<key>trailing</key>
+				<string>
+                            }
+                            , label: {
+</string>
+			</dict>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+	</array>
+</dict>
+</plist>

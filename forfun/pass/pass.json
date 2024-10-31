@@ -1,0 +1,16 @@
+{
+  "formatVersion": 1,
+  "passTypeIdentifier": "pass.com.loujain.passmaker",
+  "serialNumber": "123456789",
+  "teamIdentifier": "R8GG63L5X3",
+  "organizationName": "Jay's Gym",
+  "description": "Sample Pass",
+  "logoText": "Sample Pass",
+  "backgroundColor": "rgb(0, 128, 255)",
+  "foregroundColor": "rgb(255, 255, 255)",
+  "barcode": {
+    "message": "1234567890",
+    "format": "PKBarcodeFormatQR",
+    "messageEncoding": "iso-8859-1"
+  }
+}
